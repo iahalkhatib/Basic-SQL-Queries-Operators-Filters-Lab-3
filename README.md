@@ -68,9 +68,12 @@ To modify the query to return only login attempts with event_id between 100 and 
 ![image](https://github.com/iahalkhatib/Basic-SQL-Queries-Operators-Filters-Lab-3/assets/170050432/f9e2fea6-87b6-469c-bf72-7aaa89ff00df)
 
 
-I have completed this activity and practiced applying:
+# I have completed this activity and practiced applying:
 
 the WHERE keyword
+
 the BETWEEN and AND operators
-operators for working with numeric or date and time data types (for example, =, >, >=)
-to filter data from a table.
+
+operators for working with numeric or date and time data types 
+
+(for example, =, >, >=) to filter data from a table.
